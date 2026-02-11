@@ -2,8 +2,8 @@
 Contributors: wpsurface, pinkuchanda
 Tags: post grid, blog layout, elementor addons, latest post, post layout design
 Requires at least: 4.8
-Requires PHP: 7.2
-Tested up to: 6.5
+Requires PHP: 7.4
+Tested up to: 6.9
 Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
